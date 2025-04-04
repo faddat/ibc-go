@@ -14,6 +14,7 @@ ADD internal internal
 ADD simapp simapp
 ADD testing testing
 ADD modules modules
+ADD api api
 ADD LICENSE LICENSE
 
 COPY contrib/devtools/Makefile contrib/devtools/Makefile
